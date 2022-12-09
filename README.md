@@ -8,7 +8,7 @@ This is a starter boilerplate code to build reactjs applications with typescript
 
 I'm using these main technologies to build this project:
 
-[![ReactJS][react]][node-url]
+[![ReactJS][react]][react-url]
 [![Typescript][typescript]][typescript-url]
 [![Sass][sass]][sass-url]
 [![Vite][vite]][vite-url]
